@@ -5,9 +5,9 @@
 
 **Completa la siguiente información antes de comenzar:**
 
-- **Nombre completo**: _____________________________
-- **Carrera**: _____________________________
-- **Fecha de entrega**: _____________________________
+- **Nombre completo**: David Chamorro
+- **Carrera**: Ing. Informática
+- **Fecha de entrega**: 08/10/25
 
 ---
 
